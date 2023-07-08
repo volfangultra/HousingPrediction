@@ -1,0 +1,1024 @@
+grad,kvadrata,sprat,broj_soba,vrsta_grijanja,lift,parking,novogradnja,namjesten,cijena
+Sarajevo - Stari Grad,57,4,2,centralno,0,0,0,2,342000
+Sarajevo - Novi Grad,33,5,0,centralno,1,1,1,1,198000
+Sarajevo - Novo Sarajevo,55.35,2,2,centralno,1,0,0,2,325000
+Ilidža,42,6,2,ostalo,1,0,1,2,243600
+Ilidža,42,2,1.5,struja,1,1,1,2,242960
+Sarajevo - Stari Grad,65,2,2,centralno,0,0,0,2,375000
+Sarajevo - Novo Sarajevo,61,20+,2,centralno,0,0,0,2,350000
+Sarajevo - Novo Sarajevo,61,20+,2,centralno,1,0,0,2,349000
+Sarajevo - Novo Sarajevo,62,20+,2,centralno,1,0,1,0,350000
+Sarajevo - Stari Grad,32,1,2,struja,0,0,0,2,180000
+Sarajevo - Centar,43,2,2,centralno,1,1,1,2,240000
+Sarajevo - Centar,59,4,2,centralno,0,1,0,2,329000
+Sarajevo - Novo Sarajevo,48,3,2,centralno,1,1,1,2,265000
+Sarajevo - Novo Sarajevo,44,2,3,centralno,0,1,0,2,242000
+Sarajevo - Novi Grad,38,3,2,centralno,1,0,1,2,209000
+Sarajevo - Stari Grad,71,3,četverosoban,struja,1,1,0,0,390000
+Sarajevo - Novi Grad,42,1,2,centralno,1,1,1,1,230000
+Sarajevo - Centar,40,4,2,centralno,0,1,0,2,219000
+Sarajevo - Centar,64,3,3,centralno,0,1,0,2,350000
+Sarajevo - Centar,64,5,2,centralno,1,0,0,2,350000
+Sarajevo - Centar,73,1,3,plin,0,1,0,1,399000
+Sarajevo - Novi Grad,45,1,2,centralno,1,1,1,2,245000
+Sarajevo - Novo Sarajevo,36,prizemlje,1,struja,0,1,1,0,195000
+Sarajevo - Centar,73,4,3,centralno,0,1,0,2,395000
+Sarajevo - Novi Grad,61,20+,2,centralno,0,0,1,2,330000
+Sarajevo - Centar,37,visoko,1.5,centralno,0,0,0,2,200000
+Sarajevo - Centar,59,3,3,plin,0,0,0,2,318000
+Sarajevo - Stari Grad,65,3,3,struja,0,1,0,2,350000
+Sarajevo - Stari Grad,65,2,2,plin,0,0,0,2,350000
+Sarajevo - Novi Grad,52,3,3,plin,0,1,0,2,280000
+Sarajevo - Stari Grad,67,2,četverosoban,centralno,0,1,0,1,360000
+Sarajevo - Stari Grad,69,2,2,struja,0,0,0,2,370000
+Sarajevo - Novi Grad,56,3,2,centralno,1,1,1,2,300000
+Sarajevo - Centar,63,2,3,centralno,1,1,0,2,335000
+Sarajevo - Novo Sarajevo,34,3,2,plin,1,0,1,0,180500
+Sarajevo - Novi Grad,49,13,2,centralno,1,0,1,2,260000
+Sarajevo - Novi Grad,68,4,3,centralno,1,1,0,2,359500
+Sarajevo - Novo Sarajevo,54,1,2,centralno,0,1,0,2,285000
+Sarajevo - Stari Grad,74,2,3,centralno,0,1,0,2,390000
+Sarajevo - Novi Grad,57,3,3,plin,1,1,1,2,300000
+Sarajevo - Novo Sarajevo,57,12,četverosoban,centralno,1,0,0,2,299000
+Sarajevo - Novi Grad,45,3,2,centralno,1,0,0,2,235000
+Sarajevo - Centar,72,1,3,centralno,0,1,0,0,375000
+Sarajevo - Centar,51,1,2,centralno,1,1,0,1,265000
+Sarajevo - Centar,51,1,2,centralno,0,1,0,2,265000
+Sarajevo - Centar,51,1,2,centralno,0,1,0,1,265000
+Sarajevo - Centar,51,1,2,plin,0,1,0,2,265000
+Sarajevo - Stari Grad,52,1,2,plin,0,0,0,2,270000
+Sarajevo - Stari Grad,64,2,3,struja,0,1,0,1,330000
+Sarajevo - Stari Grad,67,1,3,centralno,0,1,0,0,345000
+Ilidža,46.09,9,1,centralno,1,0,1,0,237271
+Sarajevo - Stari Grad,68,1,3,centralno,0,1,0,0,350000
+Sarajevo - Stari Grad,68,1,3,plin,0,0,0,0,350000
+Ilidža,72,5,3,centralno,1,0,0,2,370000
+Sarajevo - Stari Grad,78,2,3,centralno,1,1,0,2,399900
+Sarajevo - Novi Grad,68,4,3,centralno,1,0,1,2,348000
+Sarajevo - Centar,50,3,2,centralno,0,0,0,1,255000
+Sarajevo - Novi Grad,49.02,13,2,centralno,1,1,1,2,249999
+Sarajevo - Centar,52,1,2,centralno,0,0,0,2,265000
+Sarajevo - Centar,63,1,2,centralno,0,1,0,1,320000
+Ilidža,51.3,7,2,centralno,1,1,0,2,260000
+Ilidža,44.5,9,2,centralno,1,0,1,2,225000
+Ilidža,46.4,8,0,struja,1,1,1,0,233438
+Sarajevo - Centar,78,prizemlje,3,ostalo,0,0,1,0,391000
+Sarajevo - Centar,78,visoko,3,ostalo,1,1,1,0,391000
+Sarajevo - Novo Sarajevo,68.62,11,1.5,centralno,1,0,1,0,343100
+Sarajevo - Novo Sarajevo,68,5,3,centralno,1,1,0,1,340000
+Sarajevo - Novo Sarajevo,64,16,2,centralno,1,0,1,0,320000
+Sarajevo - Centar,64,4,3,centralno,0,0,0,2,320000
+Sarajevo - Centar,52,prizemlje,2,centralno,0,1,0,2,260000
+Sarajevo - Novi Grad,49,3,2,centralno,1,1,0,2,245000
+Sarajevo - Centar,34,1,1.5,plin,0,0,0,2,170000
+Sarajevo - Novo Sarajevo,72,11,3,centralno,1,0,1,0,359950
+Sarajevo - Novi Grad,47,8,1.5,ostalo,1,1,1,0,233438
+Sarajevo - Centar,77,5,3,centralno,0,1,0,2,380000
+Sarajevo - Stari Grad,38,prizemlje,3,ostalo,0,0,0,0,187000
+Sarajevo - Centar,61,prizemlje,3,centralno,1,1,0,2,300000
+Sarajevo - Novo Sarajevo,61,9,2,centralno,1,1,0,1,300000
+Ilidža,60,5,3,centralno,1,0,1,2,295000
+Sarajevo - Centar,71,5,3,centralno,1,1,0,2,349000
+Sarajevo - Novo Sarajevo,52,2,2,struja,0,1,0,2,255000
+Sarajevo - Novi Grad,50,4,3,centralno,1,1,1,2,245000
+Sarajevo - Centar,49,1,2,plin,0,0,0,2,240000
+Sarajevo - Novo Sarajevo,55,1,2,plin,0,1,0,2,268000
+Sarajevo - Centar,55,1,2,plin,0,1,0,2,268000
+Sarajevo - Stari Grad,46,1,3,centralno,0,0,0,2,224000
+Sarajevo - Stari Grad,66,4,3,plin,0,0,0,2,320000
+Sarajevo - Stari Grad,64,prizemlje,3,struja,0,0,0,2,309000
+Sarajevo - Centar,55,1,2,plin,0,1,0,2,265000
+Sarajevo - Centar,55,1,2,plin,0,1,0,2,265000
+Ilidža,52,6,2,centralno,1,1,0,2,250000
+Sarajevo - Stari Grad,62.5,1,3,plin,0,1,0,2,300000
+Sarajevo - Novo Sarajevo,50,1,2,struja,0,0,0,2,240000
+Sarajevo - Centar,35,visoko,0,plin,0,0,1,0,168000
+Sarajevo - Centar,82,3,3,centralno,1,1,0,0,390000
+Sarajevo - Centar,63,2,3,plin,1,1,0,2,299000
+Sarajevo - Novi Grad,59,2,3,centralno,1,1,0,2,280000
+Ilidža,51.25,5,2,centralno,1,1,1,2,243150
+Ilidža,76,2,3,centralno,1,1,0,2,360000
+Sarajevo - Centar,73.94,1,3,plin,0,0,0,1,350000
+Sarajevo - Stari Grad,74,3,3,plin,0,1,0,2,350000
+Sarajevo - Centar,74,1,3,plin,0,1,0,1,350000
+Sarajevo - Novi Grad,74,10,3,centralno,1,1,0,2,350000
+Sarajevo - Centar,74,1,3,plin,0,0,0,1,350000
+Ilidža,55,7,3,centralno,1,0,1,2,260000
+Sarajevo - Centar,72,5,četverosoban,struja,0,0,0,0,340000
+Sarajevo - Novo Sarajevo,68,5,3,centralno,1,0,0,0,320000
+Sarajevo - Centar,79,2,3,centralno,0,1,0,2,371500
+Sarajevo - Centar,56,1,3,centralno,0,1,1,0,263200
+Sarajevo - Novi Grad,40,9,1,centralno,1,0,1,2,188000
+Ilidža,51,3,3,centralno,1,0,1,2,239500
+Sarajevo - Stari Grad,81,3,3,centralno,0,1,0,0,380000
+Sarajevo - Novo Sarajevo,48,1,2,struja,1,1,0,2,225000
+Sarajevo - Stari Grad,48,1,3,centralno,0,1,0,2,225000
+Sarajevo - Centar,32,10,1,centralno,1,0,0,2,150000
+Sarajevo - Centar,79,4,3,centralno,0,1,0,1,370000
+Ilidža,47,5,2,plin,1,1,0,2,220000
+Sarajevo - Centar,46,prizemlje,3,struja,0,1,0,2,215000
+Sarajevo - Centar,61,3,3,ostalo,0,0,0,0,284999
+Sarajevo - Novo Sarajevo,85,1,3,centralno,1,1,0,2,397000
+Sarajevo - Novi Grad,75,5,četverosoban,centralno,1,0,1,2,350000
+Sarajevo - Stari Grad,48,2,2,struja,0,1,0,2,224000
+Sarajevo - Centar,45,prizemlje,3,struja,0,1,0,2,210000
+Sarajevo - Centar,74,3,3,plin,0,1,0,2,345000
+Ilidža,82,1,2,centralno,1,1,1,0,382000
+Sarajevo - Centar,75,4,3,centralno,1,0,0,0,349000
+Ilidža,83,1,3,struja,1,1,1,0,385950
+Sarajevo - Centar,63,prizemlje,2,centralno,0,1,0,2,290000
+Sarajevo - Centar,80,1,3,centralno,0,1,0,1,367000
+Sarajevo - Stari Grad,48,1,3,centralno,0,1,0,2,220000
+Sarajevo - Novo Sarajevo,83,3,3,centralno,1,0,0,2,380000
+Sarajevo - Novi Grad,40,3,2,centralno,1,0,1,2,183000
+Trnovo,73,3,3,centralno,0,1,0,2,333000
+Sarajevo - Centar,57,2,2,centralno,0,1,0,0,260000
+Sarajevo - Novo Sarajevo,57,2,3,ostalo,0,1,0,2,260000
+Sarajevo - Novo Sarajevo,63,15,2,centralno,1,1,0,2,287000
+Sarajevo - Novo Sarajevo,55,13,2,centralno,0,0,0,2,250000
+Sarajevo - Novo Sarajevo,55,13,2,centralno,1,1,0,2,250000
+Ilidža,46,3,2,ostalo,1,1,1,2,209000
+Sarajevo - Centar,63,4,3,centralno,1,1,1,1,286000
+Sarajevo - Novo Sarajevo,54,2,3,centralno,1,1,0,0,245000
+Ilidža,37.47,3,1,centralno,1,1,1,0,170000
+Sarajevo - Centar,65,suteren,3,centralno,1,0,1,0,294800
+Sarajevo - Novo Sarajevo,56,1,2,centralno,1,0,1,0,253880
+Ilidža,37.5,6,0,centralno,1,0,1,0,170000
+Sarajevo - Novo Sarajevo,64,3,2,plin,1,1,0,0,290000
+Sarajevo - Centar,53,2,2,plin,0,0,0,1,240000
+Sarajevo - Stari Grad,73,7,3,centralno,1,0,0,2,330000
+Sarajevo - Novi Grad,52,3,2,centralno,0,1,0,2,235000
+Sarajevo - Novi Grad,52,3,2,centralno,0,1,0,2,235000
+Sarajevo - Centar,83,3,3,centralno,0,0,0,1,375000
+Sarajevo - Centar,72,4,2,ostalo,0,1,0,2,325000
+Sarajevo - Novo Sarajevo,73.21,6,3,centralno,1,0,0,1,330000
+Sarajevo - Stari Grad,82,3,3,ostalo,0,0,0,0,369000
+Sarajevo - Novo Sarajevo,80,9,3,centralno,1,0,0,1,360000
+Sarajevo - Centar,72,prizemlje,3,centralno,0,1,0,2,324000
+Sarajevo - Novi Grad,68,3,3,centralno,1,1,1,0,306000
+Ilidža,68,3,3,centralno,1,0,1,0,306000
+Ilidža,62,4,2,centralno,1,1,0,2,279000
+Ilidža,62,4,1,centralno,1,1,1,2,279000
+Sarajevo - Centar,60,1,2,plin,1,1,1,0,270000
+Sarajevo - Novo Sarajevo,50,visoko,2,plin,0,1,0,0,225000
+Sarajevo - Novi Grad,40,4,1,centralno,1,0,1,1,180000
+Ilidža,62,4,2,centralno,1,1,0,2,278990
+Sarajevo - Novo Sarajevo,88,2,četverosoban,plin,0,1,1,2,395900
+Sarajevo - Centar,80,1,3,centralno,0,0,0,2,359000
+Sarajevo - Novo Sarajevo,68,visoko,3,centralno,0,1,0,2,305000
+Sarajevo - Novo Sarajevo,68,8,3,centralno,1,1,0,0,305000
+Sarajevo - Centar,58,visoko,2,centralno,1,0,1,0,260000
+Sarajevo - Centar,58,visoko,2,centralno,1,0,1,0,259900
+Sarajevo - Stari Grad,52,4,2,struja,0,0,0,1,233000
+Sarajevo - Centar,84,1,četverosoban,centralno,1,1,0,0,375000
+Sarajevo - Novo Sarajevo,63,1,3,centralno,0,0,0,0,280000
+Sarajevo - Centar,54,3,2,plin,1,0,0,2,240000
+Sarajevo - Novo Sarajevo,45,18,2,centralno,1,1,0,0,200000
+Sarajevo - Novo Sarajevo,45,18,2,centralno,1,1,0,0,200000
+Sarajevo - Stari Grad,90,4,3,centralno,0,1,0,0,399999
+Sarajevo - Novo Sarajevo,53,4,2,struja,0,1,1,2,235000
+Sarajevo - Centar,57,4,3,struja,0,1,0,2,252000
+Sarajevo - Novo Sarajevo,43,4,2,centralno,0,0,0,2,190000
+Sarajevo - Centar,60,visoko,3,centralno,0,0,0,2,265000
+Sarajevo - Stari Grad,60,4,četverosoban,centralno,0,1,0,1,265000
+Sarajevo - Stari Grad,61,2,1,plin,0,1,0,0,269000
+Sarajevo - Centar,84,4,3,centralno,0,1,0,2,370000
+Ilidža,67,4,3,centralno,1,1,1,2,295000
+Sarajevo - Centar,84,suteren,3,centralno,1,0,1,0,369600
+Sarajevo - Novo Sarajevo,75,1,3,centralno,1,1,0,0,330000
+Sarajevo - Stari Grad,83,3,3,centralno,0,1,0,1,365000
+Sarajevo - Centar,66,3,3,centralno,1,1,1,1,290000
+Ilidža,71.88,10,3,centralno,1,0,1,0,315374
+Ilidža,57,7,2,centralno,0,1,0,2,250000
+Ilidža,57,7,2,centralno,1,1,1,2,250000
+Sarajevo - Stari Grad,73.1,7,3,centralno,1,0,0,2,320000
+Sarajevo - Centar,52,1,2,centralno,0,1,0,2,227500
+Sarajevo - Centar,48,2,2,centralno,0,1,0,0,210000
+Sarajevo - Novo Sarajevo,57,3,3,centralno,1,1,0,0,249000
+Sarajevo - Novi Grad,55,2,2,centralno,1,1,0,2,240000
+Ilidža,58.4,8,3,centralno,1,0,1,2,254600
+Sarajevo - Centar,48.19,2,2,centralno,0,0,0,1,210000
+Sarajevo - Novi Grad,46,2,2,centralno,1,1,1,2,200000
+Sarajevo - Novo Sarajevo,76,8,3,centralno,1,0,0,1,330000
+Sarajevo - Stari Grad,68,1,3,centralno,0,1,0,2,295000
+Sarajevo - Stari Grad,68,1,3,centralno,0,1,0,0,295000
+Sarajevo - Centar,83,2,3,plin,0,1,0,2,360000
+Sarajevo - Centar,90,5,3,plin,0,0,0,2,390000
+Ilidža,48,6,2,centralno,1,0,0,2,208000
+Ilidža,75.23,9,3,centralno,1,0,1,0,325671
+Sarajevo - Novi Grad,71.75,9,3,ostalo,1,1,1,0,310606
+Sarajevo - Novo Sarajevo,76,1,3,centralno,0,0,0,0,329000
+Ilidža,71,4,2,ostalo,1,1,1,0,307043
+Sarajevo - Stari Grad,74,4,3,centralno,0,0,0,0,320000
+Sarajevo - Centar,80,5,četverosoban,centralno,1,1,0,0,345000
+Sarajevo - Centar,65,5,3,centralno,0,1,0,1,280000
+Sarajevo - Novo Sarajevo,65,5,3,centralno,1,0,0,2,280000
+Sarajevo - Centar,36,prizemlje,1.5,struja,0,0,0,1,155000
+Ilidža,69,1,3,centralno,1,0,1,2,296700
+Sarajevo - Novi Grad,68,3,3,centralno,1,0,1,1,292400
+Sarajevo - Novo Sarajevo,49,1,1,centralno,1,1,0,2,210000
+Ilidža,71.74,8,3,ostalo,1,1,1,0,306366
+Sarajevo - Novi Grad,47,4,1.5,centralno,1,1,1,1,200000
+Sarajevo - Centar,80,2,četverosoban,centralno,0,0,0,0,340000
+Ilidža,52,2,2,centralno,1,1,1,2,221000
+Sarajevo - Centar,40,prizemlje,2,centralno,0,0,0,2,170000
+Sarajevo - Centar,94,2,četverosoban,centralno,0,1,0,1,399000
+Trnovo,51.83,suteren,3,struja,1,0,1,0,220000
+Ilidža,59,4,2,centralno,1,1,0,2,250000
+Ilidža,85,3,četverosoban,centralno,0,1,0,2,359900
+Sarajevo - Centar,56,1,3,plin,0,0,0,2,237000
+Sarajevo - Centar,69,1,3,centralno,0,0,0,2,292000
+Sarajevo - Centar,90,2,četverosoban,plin,1,0,0,0,380000
+Sarajevo - Novo Sarajevo,90,1,četverosoban,plin,0,1,0,0,379900
+Sarajevo - Novo Sarajevo,70,11,3,centralno,1,0,0,0,295000
+Sarajevo - Novo Sarajevo,70,6,2,centralno,1,0,0,0,295000
+Sarajevo - Novo Sarajevo,70,5,četverosoban,plin,0,0,0,2,295000
+Sarajevo - Novo Sarajevo,49,2,2,centralno,0,0,1,1,206000
+Sarajevo - Centar,74,2,3,centralno,0,1,1,0,310926
+Sarajevo - Novo Sarajevo,91.63,6,3,centralno,1,1,0,2,385000
+Sarajevo - Centar,95,2,3,plin,0,0,0,0,399000
+Sarajevo - Centar,71,1,3,centralno,0,0,0,0,298000
+Sarajevo - Centar,56,1,3,plin,0,1,0,2,235000
+Sarajevo - Novi Grad,62,11,2,centralno,1,1,0,2,260000
+Sarajevo - Novo Sarajevo,57,4,2,centralno,0,1,0,1,239000
+Sarajevo - Stari Grad,42,prizemlje,1.5,plin,0,0,0,2,176000
+Sarajevo - Novo Sarajevo,62,6,3,struja,1,1,0,2,259000
+Sarajevo - Centar,84,prizemlje,četverosoban,plin,0,1,0,2,350000
+Ilidža,84,4,četverosoban,centralno,0,0,0,0,350000
+Sarajevo - Novo Sarajevo,54,2,2,centralno,0,0,0,0,225000
+Sarajevo - Novi Grad,95,8,četverosoban,centralno,1,1,0,1,395000
+Sarajevo - Novo Sarajevo,71,11,3,centralno,1,0,0,1,295000
+Sarajevo - Novo Sarajevo,71,11,3,centralno,1,1,0,0,295000
+Ilidža,86.92,4,3,centralno,1,0,1,0,361021
+Sarajevo - Novi Grad,49.37,4,2,centralno,1,0,1,1,205000
+Sarajevo - Novi Grad,78,2,3,centralno,1,1,1,1,323000
+Sarajevo - Novi Grad,78,6,3,centralno,1,0,0,2,322000
+Sarajevo - Novo Sarajevo,68,7,3,plin,0,1,0,2,280000
+Sarajevo - Novo Sarajevo,51,4,2,plin,0,1,0,2,210000
+Ilidža,51,6,1,centralno,1,1,1,2,210000
+Sarajevo - Novo Sarajevo,51,4,2,struja,0,1,0,2,210000
+Sarajevo - Novi Grad,59,1,3,centralno,1,1,1,0,242760
+Ilidža,90,1,3,struja,0,1,0,2,370000
+Sarajevo - Novo Sarajevo,63,5,3,struja,1,1,0,0,259000
+Sarajevo - Novo Sarajevo,63,6,3,struja,1,1,0,2,259000
+Sarajevo - Novi Grad,56,4,2,centralno,0,1,0,2,230000
+Sarajevo - Novi Grad,78,6,3,centralno,1,1,0,2,320000
+Sarajevo - Novi Grad,39,1,2,centralno,0,1,0,1,160000
+Sarajevo - Novo Sarajevo,50,8,2,centralno,1,0,0,0,205000
+Sarajevo - Novi Grad,78,6,3,centralno,1,1,0,2,319000
+Sarajevo - Novo Sarajevo,67,2,2,centralno,1,1,0,1,274000
+Sarajevo - Novo Sarajevo,90,visoko,četverosoban,centralno,0,1,0,2,368000
+Sarajevo - Novo Sarajevo,90,1,četverosoban,centralno,0,1,0,2,368000
+Sarajevo - Centar,49,1,1,plin,0,1,0,0,200000
+Sarajevo - Novi Grad,39,visoko,1,plin,0,1,0,2,159000
+Sarajevo - Centar,67,2,3,centralno,0,1,0,1,273000
+Sarajevo - Novo Sarajevo,54,4,2,centralno,0,1,0,2,220000
+Sarajevo - Centar,86,5,2,struja,1,1,0,1,350000
+Sarajevo - Stari Grad,86,5,2,struja,0,1,0,2,349999
+Sarajevo - Centar,76,prizemlje,3,centralno,0,1,0,0,309000
+Sarajevo - Novi Grad,64,5,3,struja,1,1,0,0,260000
+Sarajevo - Novo Sarajevo,48,visoko,2,centralno,0,1,0,2,195000
+Sarajevo - Centar,66,2,3,plin,0,1,0,0,268000
+Sarajevo - Centar,62,1,3,centralno,0,1,1,0,251680
+Sarajevo - Novo Sarajevo,53,2,2,plin,0,1,0,1,215000
+Sarajevo - Novo Sarajevo,74,1,3,plin,1,0,0,2,300000
+Sarajevo - Centar,79,visoko,3,struja,0,1,1,0,320000
+Sarajevo - Centar,79,2,3,centralno,0,1,1,0,320000
+Sarajevo - Novo Sarajevo,91,5,četverosoban,centralno,1,0,0,0,368000
+Sarajevo - Centar,94,1,2,plin,0,1,0,2,380000
+Sarajevo - Novo Sarajevo,52,4,2,centralno,0,0,0,1,210000
+Sarajevo - Novo Sarajevo,52,7,2,centralno,1,1,0,2,210000
+Sarajevo - Stari Grad,52,1,2,centralno,0,1,0,1,210000
+Sarajevo - Novi Grad,57,5,2,centralno,0,0,0,2,230000
+Ilidža,42,4,2,plin,0,0,1,0,169440
+Ilidža,54,3,3,plin,1,0,1,0,217800
+Sarajevo - Centar,62,5,2,struja,0,1,0,2,250000
+Sarajevo - Novo Sarajevo,67,2,3,centralno,0,1,0,0,270000
+Sarajevo - Novo Sarajevo,72,11,3,centralno,1,1,0,2,290000
+Ilidža,67,1,četverosoban,plin,1,1,1,0,269560
+Sarajevo - Novo Sarajevo,52,1,2,centralno,0,1,1,0,209000
+Sarajevo - Novo Sarajevo,56,9,2,centralno,1,0,0,2,225000
+Sarajevo - Centar,62,2,3,centralno,0,1,0,0,249000
+Sarajevo - Stari Grad,66,4,3,plin,0,0,0,1,265000
+Sarajevo - Centar,72,4,2,plin,0,0,0,1,289000
+Sarajevo - Centar,72,2,3,plin,0,0,0,1,289000
+Sarajevo - Centar,77,prizemlje,3,centralno,0,1,0,0,309000
+Sarajevo - Stari Grad,86,2,3,plin,0,1,0,0,345000
+Sarajevo - Centar,95,2,četverosoban,centralno,0,1,0,2,380000
+Sarajevo - Centar,83,4,četverosoban,plin,0,1,0,2,332000
+Sarajevo - Novo Sarajevo,82,1,3,centralno,0,0,0,2,328000
+Sarajevo - Novi Grad,80,6,četverosoban,centralno,1,1,0,2,320000
+Sarajevo - Centar,80,visoko,četverosoban,plin,0,1,0,2,320000
+Sarajevo - Novi Grad,80,6,četverosoban,centralno,1,1,0,2,320000
+Sarajevo - Novi Grad,76,3,3,centralno,1,0,0,2,304000
+Sarajevo - Centar,75,2,3,centralno,0,1,0,2,300000
+Sarajevo - Centar,74,7,3,centralno,1,1,0,2,296000
+Sarajevo - Novi Grad,60.69,1,2,plin,1,0,1,0,242760
+Sarajevo - Centar,60,2,3,ostalo,0,0,0,1,240000
+Sarajevo - Novi Grad,55,1,2,struja,1,1,0,0,220000
+Ilidža,52,8,2,centralno,1,1,1,0,208000
+Ilidža,50.98,5,2,plin,1,1,1,0,203920
+Sarajevo - Stari Grad,50,prizemlje,četverosoban,struja,0,0,0,2,200000
+Sarajevo - Centar,50,prizemlje,3,centralno,0,1,0,2,200000
+Ilidža,45,1,2,centralno,1,1,1,0,180000
+Sarajevo - Novo Sarajevo,45,7,1.5,centralno,1,1,0,2,180000
+Sarajevo - Centar,40,suteren,1,centralno,0,0,0,0,160000
+Ilidža,40,2,2,centralno,1,1,1,0,160000
+Sarajevo - Centar,52.26,1,2,centralno,1,1,1,0,209000
+Sarajevo - Novo Sarajevo,45,2,1.5,centralno,1,1,0,0,179899
+Trnovo,38.54,suteren,2,struja,1,0,1,0,154000
+Sarajevo - Centar,62.34,2,3,centralno,1,1,1,0,249000
+Sarajevo - Centar,94.71,3,četverosoban,centralno,1,1,1,0,378000
+Sarajevo - Centar,68,2,3,centralno,0,1,1,0,271120
+Ilidža,54,1,3,plin,1,1,1,0,215240
+Sarajevo - Centar,65,5,3,struja,0,1,0,2,259000
+Sarajevo - Centar,65,5,3,struja,0,0,0,2,259000
+Sarajevo - Centar,62.92,1,3,centralno,1,1,1,0,250000
+Sarajevo - Novo Sarajevo,65,visoko,3,centralno,1,1,0,0,258000
+Sarajevo - Centar,97,2,3,centralno,0,1,0,2,385000
+Sarajevo - Novo Sarajevo,58,2,2,plin,0,1,0,2,230000
+Sarajevo - Centar,96,prizemlje,3,centralno,0,1,0,1,380000
+Ilidža,42,visoko,1,centralno,1,0,0,2,166000
+Ilidža,101,5,3,centralno,1,1,1,2,399000
+Sarajevo - Centar,66.6,2,3,centralno,0,1,0,1,263000
+Sarajevo - Novo Sarajevo,53,3,2,plin,0,1,0,2,209000
+Sarajevo - Centar,100,2,3,struja,0,1,0,1,394000
+Sarajevo - Novi Grad,47,3,1.5,plin,0,1,0,2,185000
+Sarajevo - Novo Sarajevo,47,visoko,2,struja,0,1,0,0,185000
+Sarajevo - Centar,61,prizemlje,2,centralno,0,1,0,2,240000
+Sarajevo - Novo Sarajevo,76,3,3,centralno,1,1,0,0,299000
+Sarajevo - Novi Grad,75,prizemlje,četverosoban,centralno,0,1,0,2,295000
+Sarajevo - Stari Grad,75,2,3,ostalo,0,1,1,0,295000
+Sarajevo - Centar,89,visoko,3,centralno,0,1,0,0,350000
+Sarajevo - Centar,56,visoko,2,struja,0,1,0,2,220000
+Sarajevo - Novi Grad,65.2,5,2,centralno,1,0,1,0,255552
+Sarajevo - Novi Grad,97.8,5,četverosoban,centralno,1,0,1,0,383327
+Sarajevo - Centar,69,2,3,centralno,0,0,0,0,269999
+Ilidža,90,6,3,ostalo,1,1,0,0,352000
+Sarajevo - Novo Sarajevo,90,2,četverosoban,centralno,0,1,0,2,351990
+Sarajevo - Centar,96,visoko,četverosoban,centralno,0,0,0,2,375000
+Sarajevo - Stari Grad,64,visoko,3,centralno,0,1,0,0,250000
+Sarajevo - Novo Sarajevo,64,5,2,centralno,1,0,0,2,250000
+Ilidža,42,3,2,centralno,1,1,0,1,164000
+Ilidža,90,6,3,ostalo,1,1,0,0,351000
+Sarajevo - Novo Sarajevo,51,1,2,centralno,1,1,0,0,198900
+Sarajevo - Novo Sarajevo,40,prizemlje,1,struja,0,0,0,2,156000
+Sarajevo - Stari Grad,50,prizemlje,četverosoban,ostalo,0,0,0,0,194500
+Sarajevo - Novo Sarajevo,72,3,3,centralno,0,1,0,2,280000
+Sarajevo - Novo Sarajevo,54,5,2,centralno,0,1,0,2,210000
+Sarajevo - Centar,77,3,3,plin,0,0,0,0,299000
+Sarajevo - Centar,77,3,3,struja,0,0,0,0,299000
+Sarajevo - Novo Sarajevo,51,5,2,centralno,0,1,0,1,198000
+Sarajevo - Novi Grad,76,3,3,centralno,1,1,0,1,295000
+Sarajevo - Novi Grad,89,6,četverosoban,centralno,1,1,0,2,345000
+Sarajevo - Novo Sarajevo,80,13,3,centralno,1,1,0,2,310000
+Sarajevo - Novo Sarajevo,80,13,3,centralno,1,1,0,2,310000
+Sarajevo - Centar,64,4,2,struja,0,1,0,2,248000
+Sarajevo - Novo Sarajevo,40,visoko,2,centralno,0,0,0,0,155000
+Sarajevo - Novi Grad,40,4,2,centralno,1,1,0,2,155000
+Sarajevo - Centar,62,visoko,2,centralno,0,1,0,2,240000
+Sarajevo - Stari Grad,72,4,četverosoban,centralno,0,1,0,1,278500
+Sarajevo - Novo Sarajevo,53,2,2,plin,0,0,0,0,205000
+Sarajevo - Novo Sarajevo,45,1,1.5,plin,0,1,0,1,174000
+Sarajevo - Centar,66,4,3,struja,0,1,0,2,255000
+Ilidža,43,visoko,2,struja,1,1,1,2,166000
+Sarajevo - Novo Sarajevo,52,5,2,struja,0,1,0,2,200700
+Sarajevo - Centar,96,3,četverosoban,centralno,0,1,0,2,370000
+Sarajevo - Centar,41,visoko,1,centralno,1,0,0,0,158000
+Sarajevo - Novi Grad,40,1,1.5,centralno,1,1,0,2,154000
+Sarajevo - Novi Grad,65,5,3,centralno,1,1,0,0,250000
+Sarajevo - Centar,86,suteren,3,centralno,0,1,0,0,330000
+Sarajevo - Novi Grad,79.2,7,3,ostalo,1,1,1,0,303685
+Sarajevo - Stari Grad,78,1,četverosoban,centralno,0,1,0,2,299000
+Vogošća,60,4,2,centralno,1,0,0,0,230000
+Sarajevo - Centar,60,1,3,centralno,0,1,0,2,230000
+Sarajevo - Centar,77,2,četverosoban,centralno,0,1,0,0,295000
+Sarajevo - Centar,77,2,četverosoban,centralno,0,1,0,1,295000
+Sarajevo - Centar,91,2,3,centralno,0,1,0,2,348000
+Sarajevo - Novo Sarajevo,68,3,3,centralno,0,0,0,2,260000
+Sarajevo - Novo Sarajevo,68,3,3,centralno,0,0,0,2,260000
+Sarajevo - Novi Grad,55,3,2,centralno,1,1,0,0,210000
+Sarajevo - Centar,60,3,3,centralno,0,1,0,2,229000
+Ilidža,69.45,3,četverosoban,centralno,1,0,1,2,265000
+Sarajevo - Novo Sarajevo,84,1,3,plin,0,1,0,1,320000
+Sarajevo - Centar,42,2,2,centralno,1,1,0,2,160000
+Sarajevo - Novo Sarajevo,42,2,2,plin,0,1,0,2,160000
+Sarajevo - Centar,71,4,2,centralno,0,1,0,2,270000
+Sarajevo - Novi Grad,66.5,2,3,ostalo,0,1,1,0,252866
+Sarajevo - Novi Grad,51.3,4,2,centralno,1,0,1,0,195068
+Sarajevo - Novi Grad,59.8,3,2,centralno,1,0,1,0,227389
+Sarajevo - Novi Grad,82.3,3,četverosoban,centralno,1,0,1,0,312945
+Sarajevo - Novi Grad,82.3,2,četverosoban,ostalo,0,1,1,1,312945
+Sarajevo - Stari Grad,50,1,2,centralno,0,1,0,2,190000
+Sarajevo - Centar,65,prizemlje,3,centralno,0,1,1,0,246886
+Sarajevo - Centar,87,4,četverosoban,centralno,0,0,0,1,330000
+Sarajevo - Novo Sarajevo,66,visoko,3,centralno,1,1,0,0,250000
+Sarajevo - Stari Grad,66,visoko,3,plin,0,1,0,1,250000
+Sarajevo - Centar,66,2,3,centralno,0,1,0,1,250000
+Sarajevo - Novi Grad,78.5,2,2,centralno,1,0,1,1,297000
+Sarajevo - Centar,86,2,3,centralno,0,1,0,2,325000
+Sarajevo - Centar,96,3,3,centralno,0,1,0,2,362740
+Sarajevo - Novi Grad,65,11,2,centralno,1,1,0,2,245000
+Sarajevo - Centar,73,prizemlje,3,struja,0,0,0,0,275000
+Sarajevo - Novi Grad,93,1,četverosoban,centralno,0,1,0,0,350000
+Sarajevo - Centar,97,2,2,centralno,1,1,1,0,365000
+Sarajevo - Stari Grad,80,3,3,struja,0,1,0,0,301000
+Ilidža,89,1,četverosoban,struja,1,0,1,0,334788
+Vogošća,54,4,2,centralno,1,1,0,2,202900
+Ilidža,45,3,2,centralno,0,0,0,2,169000
+Ilidža,98,1,četverosoban,struja,1,0,1,0,368035
+Sarajevo - Centar,104,3,3,plin,0,1,0,1,390000
+Sarajevo - Centar,100,1,četverosoban,centralno,0,1,0,2,375000
+Sarajevo - Centar,96,visoko,četverosoban,plin,0,1,0,2,360000
+Sarajevo - Stari Grad,80,visoko,3,drva,0,1,0,2,300000
+Sarajevo - Novo Sarajevo,80,13,3,centralno,1,1,0,2,300000
+Sarajevo - Centar,68,3,3,plin,0,1,0,0,255000
+Sarajevo - Novo Sarajevo,56,8,2,centralno,1,0,0,0,210000
+Sarajevo - Novo Sarajevo,56,8,3,centralno,1,1,0,2,210000
+Sarajevo - Centar,56,visoko,3,struja,0,1,0,2,210000
+Sarajevo - Novo Sarajevo,56,8,3,centralno,1,0,0,2,210000
+Sarajevo - Novo Sarajevo,56,8,2,centralno,1,0,0,0,210000
+Sarajevo - Novi Grad,40,3,1.5,centralno,1,1,0,0,150000
+Ilidža,80,6,3,plin,1,1,1,2,299000
+Sarajevo - Centar,72,2,3,plin,0,0,0,2,269000
+Sarajevo - Stari Grad,56,1,3,centralno,0,1,0,0,209000
+Sarajevo - Novi Grad,48,8,2,centralno,1,1,0,0,179000
+Ilidža,55,4,1.5,struja,1,1,1,0,205000
+Sarajevo - Centar,83,1,3,struja,0,1,0,2,309000
+Sarajevo - Centar,70,visoko,2,ostalo,0,1,0,0,260000
+Sarajevo - Centar,97,visoko,četverosoban,plin,0,1,0,2,360000
+Sarajevo - Novi Grad,89,7,četverosoban,centralno,1,1,0,2,330000
+Sarajevo - Novi Grad,89,7,četverosoban,centralno,1,1,0,1,330000
+Sarajevo - Stari Grad,85,1,četverosoban,plin,0,0,0,0,315000
+Ilidža,51,3,2,centralno,0,1,0,2,189000
+Ilidža,51,3,2,centralno,0,0,0,2,189000
+Sarajevo - Stari Grad,78,1,četverosoban,centralno,0,1,0,1,289000
+Ilidža,78,6,3,centralno,1,1,1,2,288500
+Sarajevo - Centar,100,1,četverosoban,centralno,0,1,0,2,369000
+Ilidža,70,1,2,plin,1,1,0,1,258000
+Sarajevo - Novi Grad,51.3,1,2,ostalo,1,1,1,0,189066
+Ilidža,57,8,3,centralno,1,0,0,1,210000
+Sarajevo - Novi Grad,57,8,3,centralno,1,1,0,0,210000
+Sarajevo - Novi Grad,53,4,2,centralno,1,1,0,2,195000
+Ilidža,56,4,2,ostalo,1,1,1,2,206000
+Sarajevo - Centar,95,4,četverosoban,centralno,0,1,0,2,349000
+Sarajevo - Centar,49,1,1,plin,0,1,0,0,180000
+Sarajevo - Centar,105,2,3,centralno,0,1,0,1,385000
+Sarajevo - Novo Sarajevo,45,2,2,centralno,1,0,0,1,165000
+Sarajevo - Novo Sarajevo,82,1,3,centralno,0,1,0,1,299900
+Sarajevo - Novo Sarajevo,82,1,3,centralno,0,1,0,0,299900
+Ilidža,61,5,1,centralno,1,1,1,2,223000
+Sarajevo - Centar,75,5,3,centralno,0,0,0,1,274000
+Ilidža,63,3,3,centralno,0,1,0,2,230000
+Sarajevo - Centar,71,visoko,3,centralno,0,1,0,2,259150
+Sarajevo - Novo Sarajevo,82,1,3,centralno,0,1,0,1,299000
+Sarajevo - Novo Sarajevo,82,1,3,centralno,0,0,0,0,299000
+Sarajevo - Centar,96,1,četverosoban,centralno,0,1,0,1,350000
+Sarajevo - Stari Grad,66,visoko,3,plin,0,1,0,1,240000
+Sarajevo - Centar,66,2,3,centralno,0,1,0,0,240000
+Ilidža,55,9,1.5,centralno,1,1,1,0,200000
+Sarajevo - Novo Sarajevo,49.5,5,2,plin,0,0,0,2,180000
+Sarajevo - Novi Grad,52,5,2,centralno,0,1,0,0,189000
+Ilidža,89,12,3,centralno,1,1,0,0,323352
+Sarajevo - Centar,73,visoko,3,plin,0,1,0,0,265000
+Ilidža,43,2,1,plin,0,0,1,2,156000
+Sarajevo - Novi Grad,70.3,2,3,centralno,1,0,1,0,254978
+Sarajevo - Novi Grad,51.3,2,2,centralno,1,0,1,0,186065
+Sarajevo - Novi Grad,65,11,3,centralno,0,0,0,0,235000
+Sarajevo - Novo Sarajevo,52,1,2,plin,0,1,0,2,188000
+Sarajevo - Centar,72,1,3,centralno,0,1,1,0,260000
+Sarajevo - Centar,97,1,3,ostalo,0,1,1,2,350000
+Sarajevo - Stari Grad,97,1,3,struja,0,1,0,2,350000
+Ilidža,79,4,3,ostalo,1,1,0,0,285000
+Ilidža,45.78,13,2,centralno,0,0,0,2,165000
+Sarajevo - Novo Sarajevo,98,3,3,centralno,0,1,0,0,353000
+Sarajevo - Centar,75,1,3,plin,1,1,0,2,270000
+Sarajevo - Novi Grad,64,visoko,3,centralno,0,0,0,2,230000
+Sarajevo - Novo Sarajevo,71,4,3,centralno,0,0,0,0,255000
+Sarajevo - Novo Sarajevo,68,2,2,struja,1,1,0,2,244000
+Sarajevo - Novi Grad,87,4,četverosoban,centralno,0,1,0,0,312000
+Sarajevo - Novi Grad,53,5,2,centralno,0,1,0,2,190000
+Sarajevo - Centar,103,4,3,centralno,1,1,0,1,369000
+Sarajevo - Novo Sarajevo,83,prizemlje,2,centralno,1,0,1,0,296750
+Sarajevo - Novi Grad,110.2,prizemlje,3,centralno,1,0,1,0,393822
+Sarajevo - Centar,81.2,8,3,centralno,1,1,0,0,290000
+Sarajevo - Stari Grad,77,1,3,centralno,0,1,0,1,275000
+Sarajevo - Centar,77,5,3,centralno,0,0,0,2,275000
+Sarajevo - Stari Grad,77,1,3,centralno,0,1,0,1,275000
+Ilidža,56,4,2,centralno,1,1,1,0,200000
+Ilidža,42,5,2,centralno,1,1,1,0,150000
+Ilidža,76,7,3,ostalo,1,1,1,0,271000
+Sarajevo - Centar,48,2,2,centralno,0,1,0,0,171000
+Sarajevo - Novi Grad,89,7,četverosoban,centralno,1,1,0,1,317000
+Sarajevo - Centar,59,visoko,3,plin,0,0,0,0,210000
+Ilidža,43,2,2,centralno,0,0,1,0,152900
+Sarajevo - Novo Sarajevo,45,5,2,centralno,0,1,0,0,160000
+Sarajevo - Novi Grad,100,prizemlje,5,centralno,0,0,0,0,355000
+Ilidža,55,5,2,struja,1,1,1,0,195250
+Sarajevo - Centar,62,prizemlje,2,centralno,0,0,1,0,220000
+Sarajevo - Centar,62,-2,2,struja,0,1,1,0,220000
+Sarajevo - Centar,73,visoko,3,struja,0,1,0,0,259000
+Ilidža,79,7,3,centralno,1,1,0,1,280000
+Ilidža,48,12,2,centralno,1,0,1,2,170000
+Sarajevo - Novi Grad,71,1,3,plin,1,1,1,0,251265
+Sarajevo - Novi Grad,65,4,3,plin,0,1,0,0,230000
+Ilidža,79.15,7,3,plin,1,1,0,1,280000
+Sarajevo - Novo Sarajevo,99,1,3,struja,0,1,0,2,350000
+Sarajevo - Novi Grad,58,3,2,plin,1,0,0,2,205000
+Sarajevo - Centar,73,prizemlje,3,struja,0,1,0,0,258000
+Sarajevo - Centar,75,4,četverosoban,plin,0,0,0,0,265000
+Sarajevo - Centar,75,4,četverosoban,centralno,0,1,0,0,265000
+Sarajevo - Novo Sarajevo,85,1,četverosoban,plin,0,0,0,0,299999
+Sarajevo - Stari Grad,53,1,2,centralno,1,1,1,0,186626
+Sarajevo - Centar,71,2,3,centralno,0,1,0,2,249999
+Ilidža,48,1,3,centralno,0,0,0,0,168900
+Sarajevo - Novi Grad,76,10,3,centralno,1,1,0,1,267400
+Sarajevo - Novi Grad,53.2,1,2,centralno,1,0,1,0,187083
+Sarajevo - Novo Sarajevo,68,6,3,centralno,1,1,0,1,239000
+Ilidža,62,1,3,centralno,0,0,1,0,217900
+Sarajevo - Novi Grad,47,3,1.5,centralno,1,1,0,0,165000
+Sarajevo - Novi Grad,62.3,prizemlje,2,centralno,1,0,1,0,218673
+Sarajevo - Novi Grad,77,1,3,plin,1,1,0,2,270000
+Ilidža,79,4,3,centralno,1,0,1,0,276570
+Ilidža,95,4,3,ostalo,1,1,1,0,332500
+Ilidža,94,9,3,ostalo,1,1,1,0,329000
+Ilidža,91,10,3,ostalo,1,1,1,0,318500
+Sarajevo - Novo Sarajevo,85,5,2,centralno,1,0,0,0,297500
+Sarajevo - Centar,82,prizemlje,četverosoban,struja,0,1,0,0,287000
+Ilidža,81,1,3,centralno,1,1,1,0,283500
+Ilidža,75,5,3,struja,1,1,1,0,262500
+Sarajevo - Novo Sarajevo,71,2,3,centralno,1,1,0,2,248500
+Ilidža,65,3,3,plin,0,1,0,1,227500
+Ilidža,60,3,3,struja,0,1,1,2,210000
+Sarajevo - Novi Grad,55,2,2,centralno,1,1,0,2,192500
+Ilidža,80,2,3,centralno,0,0,0,2,279900
+Sarajevo - Centar,103,1,3,struja,0,1,0,0,360000
+Sarajevo - Centar,83,3,3,plin,0,0,0,2,290000
+Sarajevo - Centar,103,1,četverosoban,ostalo,0,1,0,2,359000
+Sarajevo - Novo Sarajevo,86,1,četverosoban,plin,0,1,0,0,299000
+Ilidža,52,1,3,struja,1,0,1,0,180513
+Ilidža,52,1,3,ostalo,1,0,1,0,180513
+Ilidža,49,8,2,centralno,1,1,1,2,169999
+Sarajevo - Centar,46,prizemlje,3,plin,0,0,0,0,159000
+Ilidža,57,4,2,plin,1,1,0,2,197000
+Sarajevo - Novi Grad,68,4,2,plin,0,1,0,2,235000
+Sarajevo - Centar,110,visoko,3,plin,0,0,0,2,380000
+Sarajevo - Novi Grad,55,6,2,centralno,1,1,0,2,190000
+Ilidža,66,1,3,struja,1,0,1,0,227833
+Sarajevo - Novi Grad,70,1,2,centralno,1,0,0,1,241500
+Sarajevo - Stari Grad,58,prizemlje,2,struja,0,1,0,2,200000
+Ilidža,74,2,3,plin,0,1,0,1,255000
+Sarajevo - Novo Sarajevo,81,1,3,centralno,0,1,0,2,279000
+Ilidža,84,2,3,centralno,1,1,1,1,289000
+Vogošća,64,prizemlje,2,centralno,0,0,0,2,220000
+Sarajevo - Centar,87,1,3,centralno,0,1,0,2,299000
+Sarajevo - Centar,55,6,2,plin,0,1,0,2,189000
+Sarajevo - Novo Sarajevo,53,8,2,centralno,1,1,0,0,182000
+Sarajevo - Centar,60,prizemlje,2,centralno,0,0,0,1,206000
+Ilidža,67,4,2,centralno,1,1,0,1,230000
+Ilidža,67,7,3,centralno,1,1,0,2,230000
+Ilidža,102,3,četverosoban,centralno,1,1,0,1,349000
+Ilidža,57,8,3,centralno,1,0,1,1,195000
+Ilidža,45,1,2,centralno,0,0,0,0,153900
+Sarajevo - Novi Grad,46,4,3,centralno,0,1,0,0,157000
+Sarajevo - Novo Sarajevo,55,2,3,centralno,0,0,0,0,187500
+Sarajevo - Novi Grad,69,4,2,centralno,0,1,0,2,235000
+Sarajevo - Novo Sarajevo,57,19,2,centralno,1,1,0,1,194000
+Sarajevo - Centar,82,8,četverosoban,centralno,1,1,0,1,279000
+Sarajevo - Centar,92,3,četverosoban,centralno,0,1,0,0,312800
+Sarajevo - Novi Grad,50,4,2,centralno,1,0,0,0,170000
+Ilidža,49,2,2,centralno,1,1,0,1,166500
+Ilidža,70.05,3,3,plin,1,1,0,2,238000
+Ilidža,70.05,3,3,plin,1,1,0,2,238000
+Ilidža,94,8,3,centralno,1,1,1,0,319362
+Sarajevo - Novi Grad,58,4,2,centralno,1,0,0,2,197000
+Sarajevo - Novi Grad,58,4,2,centralno,1,1,0,2,197000
+Sarajevo - Novo Sarajevo,67,5,3,centralno,0,1,0,2,227500
+Sarajevo - Novo Sarajevo,67,5,3,centralno,0,1,0,2,227500
+Sarajevo - Novi Grad,81,1,četverosoban,struja,0,0,0,0,275000
+Sarajevo - Novi Grad,81,1,četverosoban,struja,0,1,0,0,275000
+Sarajevo - Novo Sarajevo,84,3,3,plin,0,1,0,2,285000
+Sarajevo - Novo Sarajevo,56,2,2,centralno,0,1,0,2,189900
+Sarajevo - Centar,87,1,3,centralno,0,1,0,2,295000
+Ilidža,51,4,2,centralno,0,0,0,0,172900
+Sarajevo - Novo Sarajevo,54,9,2,centralno,1,0,0,0,183000
+Ilidža,47,1,2,struja,0,0,0,2,159000
+Sarajevo - Centar,80,visoko,3,centralno,0,1,0,2,270000
+Ilidža,56,2,2,plin,1,1,0,0,189000
+Ilidža,48,2,2,centralno,1,0,1,0,161900
+Sarajevo - Novo Sarajevo,46,1,2,centralno,0,1,0,1,155000
+Sarajevo - Novo Sarajevo,65,visoko,3,ostalo,0,1,0,2,219000
+Hadžići,49,7,2,ostalo,1,1,0,2,165000
+Hadžići,49,8,1.5,struja,1,1,1,2,165000
+Ilidža,77,6,3,centralno,1,1,0,2,259000
+Ilidža,77,6,3,plin,1,1,0,2,258000
+Ilidža,77,6,3,centralno,1,1,0,2,258000
+Ilidža,69,5,3,centralno,1,1,0,1,231150
+Sarajevo - Stari Grad,112,2,5,centralno,0,0,0,0,375000
+Ilidža,55,1,3,centralno,0,0,0,0,183900
+Sarajevo - Centar,90,2,3,struja,1,1,0,2,300000
+Sarajevo - Centar,90,2,2,centralno,0,1,0,1,300000
+Sarajevo - Centar,75,6,četverosoban,centralno,0,0,0,1,250000
+Sarajevo - Novo Sarajevo,75,2,3,plin,0,1,0,2,250000
+Sarajevo - Novo Sarajevo,75,2,3,plin,0,1,0,2,250000
+Sarajevo - Centar,66,-3,2,centralno,1,1,0,2,220000
+Sarajevo - Novi Grad,60,prizemlje,2,centralno,0,1,0,1,200000
+Sarajevo - Novo Sarajevo,57,visoko,2,centralno,1,1,0,1,190000
+Ilidža,48,2,2,plin,1,1,0,1,160000
+Sarajevo - Novi Grad,75,4,3,centralno,1,0,0,1,249000
+Ilidža,47,5,2,centralno,1,1,1,1,156000
+Ilidža,57,8,2,centralno,1,0,0,2,189000
+Sarajevo - Novo Sarajevo,54,4,2,centralno,0,1,0,2,179000
+Sarajevo - Novi Grad,80,2,3,centralno,1,1,0,2,265000
+Ilidža,51,1,2,centralno,0,0,0,0,168900
+Vogošća,119,8,četverosoban,centralno,1,1,1,1,393855
+Sarajevo - Novo Sarajevo,59,visoko,2,struja,0,1,0,0,195000
+Sarajevo - Novi Grad,56,5,2,centralno,1,1,0,0,185000
+Sarajevo - Novi Grad,58,2,2,ostalo,0,1,0,2,191400
+Sarajevo - Novi Grad,57,2,2,centralno,0,1,0,2,188000
+Sarajevo - Novi Grad,72,1,3,centralno,1,0,0,1,237000
+Sarajevo - Novi Grad,70,1,3,centralno,1,1,0,1,230000
+Sarajevo - Novi Grad,70,1,3,centralno,1,1,0,1,229990
+Ilidža,76.2,5,3,plin,1,1,0,0,250000
+Sarajevo - Novi Grad,57,2,3,centralno,0,0,0,1,187000
+Sarajevo - Centar,90,2,četverosoban,centralno,0,1,0,0,295000
+Sarajevo - Centar,90,2,četverosoban,plin,0,1,0,2,295000
+Ilidža,87,1,3,plin,1,0,1,0,285000
+Ilidža,87,1,3,centralno,1,0,1,0,285000
+Sarajevo - Centar,58,suteren,2,centralno,0,1,0,1,190000
+Ilidža,87,1,3,centralno,1,1,1,0,284900
+Sarajevo - Novi Grad,79,3,četverosoban,centralno,0,1,0,1,258500
+Sarajevo - Novi Grad,81,1,četverosoban,struja,0,1,0,1,265000
+Ilidža,107,3,3,centralno,1,1,1,2,350000
+Sarajevo - Novo Sarajevo,74,2,3,struja,0,1,0,0,242000
+Ilidža,52,2,2,struja,0,1,0,2,170000
+Ilidža,52,1,2,struja,0,0,0,0,170000
+Ilidža,49,13,2,centralno,1,0,0,1,160000
+Sarajevo - Novo Sarajevo,92,1,3,plin,1,1,0,2,300000
+Sarajevo - Centar,90,2,četverosoban,plin,0,1,0,0,293000
+Sarajevo - Centar,106,3,5,centralno,0,1,0,0,344995
+Sarajevo - Novi Grad,63,1,3,centralno,1,1,0,2,205000
+Sarajevo - Centar,60,1,3,plin,0,0,0,2,195000
+Sarajevo - Novi Grad,50,7,1.5,centralno,1,1,0,1,162500
+Ilidža,48,2,2,centralno,1,1,1,1,156000
+Sarajevo - Novo Sarajevo,77,8,3,centralno,1,1,0,0,250000
+Ilidža,77,2,3,plin,0,1,0,2,250000
+Sarajevo - Novi Grad,77,3,3,centralno,1,1,0,2,250000
+Ilidža,77,2,3,centralno,0,0,0,0,250000
+Sarajevo - Stari Grad,87,3,četverosoban,centralno,0,1,0,2,282000
+Sarajevo - Novo Sarajevo,58,2,2,struja,0,1,0,2,188000
+Ilidža,49.4,13,2,centralno,1,0,0,1,160000
+Sarajevo - Centar,65,3,3,centralno,0,1,0,0,210000
+Sarajevo - Centar,65,3,2,centralno,0,0,0,1,210000
+Sarajevo - Novo Sarajevo,57,5,2,centralno,0,0,0,0,184000
+Sarajevo - Novi Grad,71,14,2,centralno,1,1,0,2,229000
+Sarajevo - Centar,80.71,1,3,plin,0,0,0,1,260000
+Sarajevo - Novi Grad,57,2,3,struja,0,1,1,0,183584
+Sarajevo - Novo Sarajevo,59,prizemlje,2,centralno,0,0,0,0,190000
+Sarajevo - Novo Sarajevo,74,2,3,ostalo,0,0,0,0,238000
+Ilidža,65,5,3,centralno,1,1,0,1,209000
+Sarajevo - Stari Grad,84,1,3,ostalo,0,1,0,0,270000
+Ilidža,84,2,3,centralno,1,1,1,1,270000
+Ilidža,70,2,2,struja,0,0,0,2,225000
+Ilidža,70,2,2,struja,0,1,0,2,225000
+Sarajevo - Novi Grad,72,4,3,centralno,1,1,1,1,230500
+Ilidža,85,13,četverosoban,centralno,1,1,0,1,272000
+Sarajevo - Novi Grad,55,visoko,2,centralno,0,1,0,2,176000
+Ilidža,50,9,2,centralno,1,1,1,0,160000
+Ilidža,78,6,četverosoban,centralno,1,1,0,2,249500
+Sarajevo - Centar,81,1,četverosoban,plin,0,1,0,1,259000
+Sarajevo - Novi Grad,52,3,2,centralno,0,0,0,1,166000
+Ilidža,65,5,2,centralno,1,1,0,2,207000
+Ilidža,65,5,2,centralno,1,1,0,2,207000
+Ilidža,60,5,2,centralno,1,1,0,2,191000
+Sarajevo - Centar,110,2,četverosoban,centralno,0,1,0,0,350000
+Sarajevo - Novi Grad,77,9,3,centralno,1,1,0,1,245000
+Sarajevo - Novi Grad,77,7,3,centralno,1,1,0,0,245000
+Sarajevo - Stari Grad,72,2,3,centralno,0,1,0,1,229000
+Hadžići,74,7,3,struja,1,1,1,2,235000
+Sarajevo - Novi Grad,63,2,3,centralno,0,1,0,2,200000
+Sarajevo - Novi Grad,52,5,2,centralno,0,1,0,1,165000
+Sarajevo - Novi Grad,71,3,2,centralno,1,0,0,2,225000
+Sarajevo - Novi Grad,71,3,3,centralno,1,0,0,2,225000
+Sarajevo - Centar,98,4,3,ostalo,0,0,0,0,310000
+Ilidža,49,4,2,plin,0,1,0,1,155000
+Sarajevo - Centar,87,3,četverosoban,centralno,1,0,0,2,275000
+Ilidža,76,5,četverosoban,struja,1,1,0,1,240000
+Vogošća,103,5,četverosoban,plin,1,1,0,2,325000
+Vogošća,103,5,5,plin,1,1,0,2,325000
+Sarajevo - Centar,117,5,četverosoban,centralno,0,0,0,2,369000
+Sarajevo - Novi Grad,65,3,3,centralno,1,1,0,2,205000
+Sarajevo - Novo Sarajevo,111,5,četverosoban,centralno,0,1,0,1,350000
+Sarajevo - Centar,81,visoko,četverosoban,centralno,0,1,0,0,255000
+Sarajevo - Novi Grad,54,2,2,centralno,0,0,0,2,170000
+Ilidža,76,5,četverosoban,struja,1,1,1,1,239000
+Sarajevo - Novi Grad,57,1,2,plin,0,1,0,1,179000
+Sarajevo - Stari Grad,51,1,3,struja,0,0,0,2,160000
+Sarajevo - Centar,118,4,3,plin,0,1,0,0,370000
+Sarajevo - Centar,118,3,3,ostalo,0,1,0,1,370000
+Sarajevo - Novi Grad,83,6,3,centralno,1,0,0,1,260000
+Sarajevo - Novi Grad,70,1,3,centralno,0,0,0,2,219000
+Vogošća,48,5,2,centralno,0,1,0,2,150000
+Sarajevo - Novo Sarajevo,83,4,3,plin,1,1,0,0,259000
+Sarajevo - Novi Grad,77,6,3,centralno,0,1,0,2,240000
+Sarajevo - Novi Grad,77,3,3,centralno,1,1,0,1,240000
+Sarajevo - Novi Grad,77,3,3,centralno,1,1,0,2,240000
+Sarajevo - Centar,112,5,četverosoban,centralno,0,1,0,0,349000
+Sarajevo - Centar,112,5,četverosoban,plin,0,1,0,0,349000
+Sarajevo - Centar,80,visoko,3,centralno,0,1,0,0,249000
+Sarajevo - Centar,80,prizemlje,3,centralno,0,0,0,0,249000
+Sarajevo - Centar,80,visoko,3,centralno,0,1,0,2,249000
+Sarajevo - Centar,80,visoko,3,plin,0,1,0,0,249000
+Ilidža,90,1,3,plin,1,1,1,2,280000
+Ilidža,74,6,2,centralno,1,0,0,2,230000
+Sarajevo - Stari Grad,103,2,četverosoban,centralno,0,1,0,0,320000
+Ilidža,70,4,3,centralno,0,0,0,0,217000
+Ilidža,61,10,2,centralno,1,0,0,2,189000
+Sarajevo - Novi Grad,61,visoko,3,centralno,1,1,0,0,189000
+Sarajevo - Novi Grad,73,visoko,3,plin,1,1,0,2,226000
+Ilidža,71,4,3,centralno,1,1,0,1,219500
+Ilidža,71,4,3,centralno,0,1,0,1,219500
+Sarajevo - Centar,56,4,2,centralno,0,1,0,0,173000
+Sarajevo - Centar,113,5,četverosoban,centralno,0,1,0,2,349000
+Sarajevo - Stari Grad,102,4,3,plin,0,1,0,1,315000
+Ilidža,58,3,2,centralno,0,0,0,1,179000
+Sarajevo - Novi Grad,60,15,3,centralno,1,1,0,2,185000
+Sarajevo - Centar,97,4,3,struja,0,0,0,2,299000
+Sarajevo - Novi Grad,65,4,3,centralno,1,1,0,1,200000
+Ilidža,70,1,2,plin,1,1,0,1,215000
+Ilidža,71,4,3,centralno,0,1,0,1,218000
+Sarajevo - Centar,79,2,3,centralno,0,0,0,2,242000
+Sarajevo - Novi Grad,80,9,3,centralno,1,1,0,2,245000
+Sarajevo - Novi Grad,77,7,3,centralno,0,1,0,2,235000
+Ilidža,59,1,3,centralno,0,1,1,2,180000
+Ilidža,82,8,3,centralno,1,1,0,1,250000
+Sarajevo - Novo Sarajevo,62,2,2,centralno,0,1,0,2,189000
+Sarajevo - Novi Grad,65,2,3,centralno,0,1,0,1,198000
+Sarajevo - Centar,92,3,3,centralno,0,0,0,0,280000
+Sarajevo - Centar,69,prizemlje,3,struja,0,1,0,2,210000
+Sarajevo - Novo Sarajevo,120,8,5,centralno,0,1,0,0,365000
+Ilidža,63,12,3,centralno,1,1,1,2,191610
+Ilidža,63,12,3,centralno,1,1,0,2,191500
+Sarajevo - Novi Grad,54,5,2,centralno,1,1,0,1,164000
+Sarajevo - Centar,56,4,2,plin,0,1,0,1,170000
+Sarajevo - Novi Grad,56,visoko,2,struja,1,1,0,2,170000
+Sarajevo - Centar,56,3,2,centralno,0,1,0,0,170000
+Sarajevo - Centar,72,1,3,plin,0,1,0,0,218000
+Ilidža,86,9,četverosoban,centralno,1,1,0,2,260000
+Sarajevo - Novo Sarajevo,86,3,četverosoban,plin,0,0,0,2,260000
+Sarajevo - Centar,124,prizemlje,5,centralno,0,1,0,2,374500
+Vogošća,120,1,četverosoban,plin,0,1,1,0,361625
+Sarajevo - Novi Grad,78,9,3,centralno,1,1,0,2,235000
+Sarajevo - Centar,108,5,četverosoban,centralno,0,0,0,2,325000
+Vogošća,85,4,3,plin,0,1,1,0,255150
+Vogošća,85,4,3,plin,1,0,1,0,255150
+Sarajevo - Stari Grad,125,3,četverosoban,centralno,0,1,0,2,375000
+Sarajevo - Centar,120,4,četverosoban,struja,0,1,0,1,360000
+Sarajevo - Novi Grad,112,2,5,centralno,0,0,0,1,336000
+Sarajevo - Stari Grad,90,1,četverosoban,plin,0,1,0,0,270000
+Sarajevo - Centar,87,prizemlje,3,plin,0,0,0,2,261000
+Sarajevo - Novi Grad,87,4,četverosoban,centralno,0,1,0,0,261000
+Ilidža,80,7,3,centralno,1,1,0,1,240000
+Sarajevo - Novo Sarajevo,73.35,5,četverosoban,centralno,1,0,1,0,220050
+Sarajevo - Centar,72,1,3,struja,0,0,0,0,216000
+Sarajevo - Novi Grad,72,2,3,centralno,1,0,0,2,216000
+Sarajevo - Centar,70,prizemlje,3,centralno,0,0,0,0,210000
+Sarajevo - Novi Grad,68,4,3,centralno,1,1,0,1,204000
+Sarajevo - Stari Grad,66,1,3,ostalo,0,1,0,0,198000
+Ilidža,66,3,2,plin,1,1,0,0,198000
+Ilidža,65,3,2,plin,1,0,0,2,195000
+Sarajevo - Novi Grad,60,13,3,centralno,1,0,0,2,180000
+Ilidža,58,1,2,centralno,0,0,1,1,174000
+Ilidža,55,4,3,centralno,0,0,0,2,165000
+Sarajevo - Novo Sarajevo,53,1,2,centralno,0,1,0,1,159000
+Sarajevo - Novo Sarajevo,51,prizemlje,2,centralno,0,1,0,2,153000
+Sarajevo - Novo Sarajevo,50,2,2,centralno,0,0,0,0,150000
+Sarajevo - Novi Grad,50,2,2,centralno,0,0,0,2,150000
+Vogošća,67.78,3,3,centralno,1,0,1,0,203339
+Sarajevo - Novi Grad,68,4,3,centralno,1,1,0,1,203900
+Sarajevo - Centar,87,1,3,centralno,0,1,0,2,260000
+Ilidža,77,2,3,plin,0,0,0,2,230000
+Sarajevo - Novi Grad,68,4,3,centralno,1,1,0,2,203000
+Sarajevo - Novi Grad,68,4,3,centralno,1,1,0,2,203000
+Sarajevo - Novo Sarajevo,65,4,2,centralno,0,0,0,0,194000
+Sarajevo - Novo Sarajevo,52,1,3,struja,0,1,0,2,155000
+Sarajevo - Novi Grad,77,12,3,centralno,1,0,0,0,229000
+Ilidža,77,4,3,centralno,1,1,0,2,229000
+Sarajevo - Stari Grad,77,5,četverosoban,centralno,0,1,0,2,229000
+Vogošća,54,5,2,plin,1,1,0,2,160000
+Ilidža,76,7,3,plin,1,1,0,1,225000
+Sarajevo - Novo Sarajevo,76,20+,četverosoban,centralno,1,1,0,2,225000
+Sarajevo - Novi Grad,65,2,3,centralno,0,1,0,0,192000
+Sarajevo - Novi Grad,100,1,3,struja,1,1,0,2,295000
+Ilidža,78,2,3,centralno,0,0,0,2,230000
+Sarajevo - Centar,53,prizemlje,2,plin,0,1,0,0,156000
+Vogošća,53,2,3,struja,0,0,0,2,156000
+Ilidža,68,4,3,centralno,0,1,0,2,200000
+Sarajevo - Novo Sarajevo,114,5,četverosoban,centralno,0,1,0,2,335000
+Sarajevo - Stari Grad,97,4,3,ostalo,0,0,0,1,285000
+Sarajevo - Novi Grad,63,3,3,centralno,0,1,0,1,184900
+Vogošća,67,3,3,plin,1,0,1,0,196200
+Sarajevo - Centar,53,3,2,centralno,0,1,0,0,155000
+Ilidža,61,4,3,plin,0,0,0,0,178000
+Sarajevo - Novo Sarajevo,96,5,5,centralno,0,1,0,1,280000
+Sarajevo - Novo Sarajevo,96,5,5,centralno,0,1,0,2,280000
+Sarajevo - Novo Sarajevo,72,19,3,centralno,1,1,0,2,210000
+Sarajevo - Novi Grad,59,2,2,centralno,1,0,0,0,172000
+Sarajevo - Novi Grad,68,4,3,centralno,1,1,0,2,198000
+Sarajevo - Novi Grad,56,4,2,centralno,0,0,0,2,163000
+Ilidža,67,8,2,centralno,1,1,0,2,195000
+Sarajevo - Novi Grad,55,5,2,centralno,0,0,0,2,160000
+Sarajevo - Novo Sarajevo,54,5,2,centralno,0,0,0,2,157000
+Sarajevo - Stari Grad,86,1,3,struja,0,1,0,2,250000
+Sarajevo - Centar,90,prizemlje,3,centralno,0,1,0,0,261000
+Sarajevo - Novo Sarajevo,76,20+,četverosoban,centralno,1,1,0,0,220000
+Sarajevo - Novo Sarajevo,76,20+,četverosoban,centralno,1,1,0,2,220000
+Sarajevo - Novi Grad,55,4,2,centralno,0,1,0,1,159000
+Sarajevo - Novi Grad,54,1,2,centralno,1,1,0,0,156000
+Ilidža,52,4,2,plin,1,1,0,0,150000
+Sarajevo - Centar,59,2,2,drva,0,1,0,0,170000
+Ilidža,69,2,3,centralno,1,1,1,1,198000
+Ilidža,110,1,5,centralno,0,1,1,0,315000
+Ilidža,94,2,četverosoban,centralno,0,0,0,2,269000
+Ilidža,77,10,3,centralno,1,0,0,1,220000
+Sarajevo - Novi Grad,70,8,3,centralno,1,1,0,2,200000
+Ilidža,70,4,3,centralno,0,0,0,1,200000
+Sarajevo - Novi Grad,56,4,2,centralno,0,1,0,2,159900
+Sarajevo - Novi Grad,72,8,3,centralno,1,1,0,2,205000
+Sarajevo - Novi Grad,58,1,2,centralno,1,1,0,1,165000
+Ilidža,58,prizemlje,2,centralno,1,1,0,0,165000
+Sarajevo - Novi Grad,73,4,3,centralno,0,1,0,0,207000
+Vogošća,60,3,3,plin,0,1,0,0,170000
+Vogošća,53,visoko,2,struja,1,1,0,2,150000
+Vogošća,75,prizemlje,3,plin,1,0,1,0,212240
+Sarajevo - Novi Grad,55,suteren,2,centralno,1,1,1,2,154999
+Sarajevo - Novo Sarajevo,96,5,5,centralno,0,1,0,2,270000
+Sarajevo - Novo Sarajevo,96,5,5,centralno,0,1,0,2,270000
+Sarajevo - Novi Grad,69,3,3,centralno,0,1,0,2,193700
+Vogošća,66,2,3,centralno,0,1,0,0,185000
+Vogošća,75.8,prizemlje,3,centralno,1,0,1,0,212240
+Sarajevo - Novi Grad,93,1,3,plin,1,1,0,0,260000
+Sarajevo - Novo Sarajevo,86,3,četverosoban,centralno,0,0,1,0,240000
+Sarajevo - Novi Grad,70,2,3,centralno,0,1,0,2,195000
+Vogošća,54.4,7,3,struja,1,1,1,0,151500
+Vogošća,55,1,3,centralno,1,1,1,0,152982
+Ilidža,59,5,2,plin,0,0,0,2,164000
+Ilidža,72,4,2,plin,0,1,0,2,200000
+Sarajevo - Novi Grad,72,1,3,centralno,1,1,1,2,200000
+Sarajevo - Novi Grad,57,4,2,centralno,1,1,0,0,158000
+Ilidža,83,1,3,plin,0,1,0,0,230000
+Sarajevo - Novi Grad,56,visoko,2,struja,0,0,0,2,155000
+Sarajevo - Novi Grad,56,visoko,2,struja,0,0,0,0,155000
+Sarajevo - Centar,90,visoko,2,centralno,0,1,0,0,249000
+Sarajevo - Novo Sarajevo,85,5,3,centralno,0,1,0,0,235000
+Sarajevo - Novo Sarajevo,76,1,2,centralno,0,1,0,1,210000
+Sarajevo - Novo Sarajevo,76,1,2,struja,0,1,0,0,210000
+Sarajevo - Novo Sarajevo,76,1,2,struja,0,1,0,0,210000
+Sarajevo - Novo Sarajevo,76,1,2,struja,0,1,0,0,210000
+Sarajevo - Centar,69,2,3,centralno,0,1,0,0,190000
+Sarajevo - Novi Grad,69,visoko,3,centralno,1,0,0,1,190000
+Vogošća,131,1,četverosoban,centralno,1,1,1,0,360000
+Sarajevo - Novi Grad,69,2,3,centralno,0,0,0,2,189000
+Sarajevo - Centar,121,2,četverosoban,plin,0,1,0,0,331000
+Vogošća,79,1,četverosoban,centralno,1,1,1,0,215379
+Sarajevo - Novi Grad,58,10,2,centralno,0,0,0,1,158000
+Vogošća,101,6,četverosoban,plin,1,1,0,2,275000
+Sarajevo - Novi Grad,68,4,2,plin,1,1,0,2,185000
+Sarajevo - Novo Sarajevo,68,8,3,plin,1,1,1,0,184977
+Vogošća,64,1,3,centralno,1,1,1,0,174015
+Sarajevo - Novi Grad,71,6,3,centralno,1,1,0,1,193000
+Ilidža,94,2,3,centralno,0,0,0,2,255000
+Sarajevo - Novi Grad,66,13,3,centralno,1,1,0,1,179000
+Sarajevo - Centar,57,2,3,struja,0,1,0,0,154000
+Sarajevo - Novi Grad,105,8,četverosoban,centralno,1,1,0,2,283500
+Sarajevo - Novo Sarajevo,100,5,3,centralno,0,1,0,0,270000
+Sarajevo - Novi Grad,70,3,3,centralno,0,0,0,1,189000
+Sarajevo - Novi Grad,70,3,3,centralno,0,1,0,1,189000
+Sarajevo - Centar,70,3,3,centralno,0,1,0,1,189000
+Sarajevo - Novo Sarajevo,59,visoko,2,centralno,0,1,0,1,159000
+Hadžići,80,2,3,centralno,0,1,0,2,215000
+Sarajevo - Novi Grad,67,1,3,centralno,0,0,0,0,180000
+Sarajevo - Novi Grad,68,7,3,centralno,1,1,0,0,182500
+Ilidža,81,prizemlje,3,plin,0,1,0,0,217000
+Sarajevo - Novi Grad,56,12,2,centralno,1,1,0,0,150000
+Sarajevo - Novi Grad,67,5,3,centralno,1,1,0,0,179000
+Sarajevo - Centar,90,3,3,ostalo,0,1,0,0,240000
+Sarajevo - Stari Grad,101,2,3,centralno,0,1,0,0,269000
+Vogošća,71.5,7,3,centralno,1,1,1,0,190000
+Ilidža,60,4,2,plin,0,1,0,2,159000
+Vogošća,131,1,četverosoban,centralno,0,0,1,0,346625
+Vogošća,70,4,2,struja,0,0,0,2,185000
+Sarajevo - Centar,72,2,2,centralno,0,1,0,1,190000
+Ilidža,58,3,2,plin,0,0,0,2,153000
+Sarajevo - Centar,133,prizemlje,četverosoban,ostalo,1,1,0,0,350000
+Sarajevo - Novo Sarajevo,76,1,2,struja,0,1,0,2,200000
+Vogošća,131.5,1,četverosoban,plin,0,1,0,0,346000
+Sarajevo - Novi Grad,78,8,3,centralno,1,1,0,1,205000
+Vogošća,99,3,četverosoban,plin,1,1,0,2,260000
+Vogošća,65.58,3,3,plin,1,1,1,0,170768
+Vogošća,100,3,četverosoban,centralno,1,0,0,2,260000
+Vogošća,69.13,1,3,plin,1,1,1,0,179738
+Sarajevo - Novi Grad,62,4,2,centralno,0,0,0,1,161200
+Ilidža,77,2,3,centralno,0,1,0,2,200000
+Ilidža,77,2,3,centralno,0,1,0,2,200000
+Sarajevo - Novi Grad,72,6,3,centralno,1,0,0,0,187000
+Ilidža,81,prizemlje,3,plin,0,1,0,2,210000
+Sarajevo - Novo Sarajevo,85,4,četverosoban,centralno,0,1,0,2,220000
+Sarajevo - Novo Sarajevo,62,1,3,centralno,0,0,0,0,160000
+Sarajevo - Novi Grad,70,3,3,centralno,0,1,0,0,179900
+Sarajevo - Novo Sarajevo,74,prizemlje,3,plin,0,1,0,2,190000
+Sarajevo - Novo Sarajevo,74,prizemlje,3,plin,0,1,0,2,190000
+Ilidža,84,4,3,centralno,0,0,0,1,215000
+Sarajevo - Novi Grad,72,3,3,centralno,0,1,0,2,184000
+Sarajevo - Stari Grad,74,visoko,3,plin,0,1,0,2,188700
+Sarajevo - Stari Grad,74,visoko,3,plin,0,1,0,2,188700
+Sarajevo - Stari Grad,74,visoko,3,plin,0,1,0,0,188700
+Sarajevo - Stari Grad,74,visoko,3,plin,0,1,0,0,188700
+Ilidža,128,7,četverosoban,centralno,1,1,0,2,325000
+Sarajevo - Novo Sarajevo,106,5,četverosoban,centralno,0,1,0,0,269000
+Sarajevo - Centar,106,5,3,centralno,0,1,0,1,269000
+Sarajevo - Novi Grad,77,4,3,centralno,0,1,0,0,195000
+Sarajevo - Centar,154,4,3,plin,0,0,0,2,389500
+Sarajevo - Novi Grad,87,prizemlje,četverosoban,centralno,0,1,0,1,220000
+Sarajevo - Novo Sarajevo,106,5,3,plin,0,0,0,2,268000
+Vogošća,86,1,četverosoban,centralno,1,1,1,0,217125
+Vogošća,71,4,3,centralno,0,1,0,0,179000
+Sarajevo - Centar,135,5,četverosoban,struja,0,0,0,0,340000
+Sarajevo - Novi Grad,88,4,3,centralno,0,1,0,1,221000
+Sarajevo - Novi Grad,88,4,3,centralno,0,1,0,1,221000
+Sarajevo - Novi Grad,88,4,3,centralno,0,1,0,0,221000
+Sarajevo - Centar,130,3,3,centralno,0,1,0,2,325000
+Ilidža,128,6,četverosoban,plin,1,1,0,2,320000
+Hadžići,114,1,četverosoban,struja,1,0,0,0,285000
+Ilidža,84,3,2,struja,1,0,1,0,210000
+Vogošća,80,2,3,struja,0,1,0,2,200000
+Sarajevo - Novi Grad,77,11,3,centralno,1,1,0,1,192500
+Sarajevo - Stari Grad,74,prizemlje,3,plin,0,1,0,1,185000
+Sarajevo - Novi Grad,74,suteren,3,centralno,0,0,1,2,185000
+Sarajevo - Novi Grad,72,4,3,centralno,0,1,0,0,180000
+Sarajevo - Novi Grad,77,visoko,3,centralno,0,1,0,0,192000
+Sarajevo - Novo Sarajevo,114,8,četverosoban,centralno,1,1,0,2,283500
+Sarajevo - Novi Grad,62,5,3,centralno,0,1,0,1,153000
+Sarajevo - Novi Grad,77,12,četverosoban,centralno,1,1,0,0,190000
+Sarajevo - Novi Grad,75,4,3,centralno,0,1,0,0,185000
+Vogošća,63,3,2,drva,0,1,0,2,155000
+Ilidža,80,1,3,plin,0,1,0,0,196000
+Sarajevo - Novi Grad,78,1,3,centralno,0,1,0,2,190000
+Sarajevo - Novi Grad,70,1,3,centralno,0,1,0,0,170000
+Vogošća,66,4,2,struja,1,1,1,0,160000
+Sarajevo - Novo Sarajevo,69,prizemlje,3,plin,0,1,1,0,167000
+Sarajevo - Stari Grad,74,visoko,3,plin,0,1,0,2,179000
+Sarajevo - Novi Grad,72,visoko,3,centralno,1,1,0,1,174000
+Sarajevo - Novo Sarajevo,69.3,prizemlje,3,centralno,0,1,1,0,167000
+Sarajevo - Novo Sarajevo,69.3,prizemlje,3,plin,0,1,1,0,167000
+Sarajevo - Novo Sarajevo,69.3,prizemlje,3,centralno,0,1,1,0,167000
+Vogošća,100,3,3,centralno,0,1,1,2,240000
+Sarajevo - Stari Grad,155,3,5,centralno,0,1,0,1,370000
+Sarajevo - Novo Sarajevo,105,3,3,centralno,0,1,0,1,250000
+Ilidža,63,5,3,plin,0,1,1,0,150000
+Vogošća,99,4,3,struja,1,0,1,2,235000
+Sarajevo - Novi Grad,67,3,3,centralno,0,1,0,0,159000
+Sarajevo - Novo Sarajevo,105,3,3,plin,0,1,0,1,249000
+Sarajevo - Novi Grad,76,-3,3,centralno,1,1,0,0,180000
+Sarajevo - Stari Grad,101,2,3,plin,0,1,0,1,239000
+Ilidža,85,2,3,plin,0,1,0,2,200000
+Vogošća,85.39,5,3,centralno,0,0,0,2,199500
+Sarajevo - Novi Grad,86,prizemlje,četverosoban,centralno,0,1,0,0,200000
+Sarajevo - Novi Grad,112,3,5,centralno,0,1,0,1,260000
+Ilidža,84,4,3,centralno,0,0,0,1,195000
+Vogošća,82,5,3,struja,0,1,0,2,190000
+Vogošća,80,4,3,centralno,0,1,0,2,184000
+Sarajevo - Novo Sarajevo,70,3,četverosoban,struja,0,1,0,0,161000
+Sarajevo - Novi Grad,87,prizemlje,četverosoban,centralno,0,1,0,1,200000
+Ilidža,96,3,3,plin,0,1,0,2,220000
+Ilidža,73.5,2,3,ostalo,0,1,1,0,166980
+Sarajevo - Novi Grad,93,3,3,centralno,0,1,0,0,209000
+Vogošća,89,4,3,centralno,1,1,1,1,199900
+Sarajevo - Novi Grad,76,3,3,centralno,0,1,0,0,169900
+Sarajevo - Novi Grad,85,3,četverosoban,centralno,0,1,0,0,190000
+Sarajevo - Novi Grad,112,3,5,centralno,0,1,0,0,250000
+Ilidža,92,4,četverosoban,centralno,0,1,0,0,205000
+Sarajevo - Novi Grad,80,1,četverosoban,centralno,0,0,0,0,178000
+Ilidža,72,2,3,centralno,0,1,0,2,159000
+Sarajevo - Novi Grad,74,1,3,centralno,0,1,0,0,163000
+Vogošća,76,prizemlje,3,centralno,0,1,0,0,165000
+Vogošća,76,prizemlje,3,centralno,1,1,0,0,165000
+Vogošća,76,prizemlje,3,centralno,1,1,0,0,165000
+Vogošća,76,prizemlje,3,plin,1,1,0,0,165000
+Ilidža,92,2,3,struja,0,0,0,0,199025
+Ilidža,80,1,3,struja,0,1,1,0,172700
+Sarajevo - Novi Grad,130,3,četverosoban,plin,0,1,0,2,280000
+Ilidža,92.57,2,3,struja,0,1,1,0,199025
+Ilidža,92.6,1,3,struja,0,1,1,0,199025
+Sarajevo - Centar,105,2,3,ostalo,0,1,0,2,225000
+Sarajevo - Novi Grad,85,3,četverosoban,centralno,0,0,0,0,179000
+Sarajevo - Novo Sarajevo,85,1,3,plin,0,0,0,2,179000
+Sarajevo - Novo Sarajevo,90,1,3,struja,0,1,0,0,189000
+Ilidža,89,1,3,centralno,0,1,0,2,185000
+Sarajevo - Stari Grad,145,prizemlje,5,centralno,0,1,0,2,300000
+Sarajevo - Novi Grad,93,1,četverosoban,plin,0,1,1,0,191552
+Sarajevo - Novi Grad,100,9,četverosoban,centralno,1,1,0,2,205000
+Sarajevo - Novi Grad,78,7,četverosoban,centralno,1,1,0,2,159000
+Ilidža,87,3,3,struja,0,0,0,0,174740
+Sarajevo - Novi Grad,87,3,3,struja,0,1,0,0,174740
+Hadžići,78,1,3,centralno,0,1,0,2,156000
